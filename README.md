@@ -1,3 +1,15 @@
+# Face Recognition and Image Processing Toolbox
+This project combines face recognition and basic image processing operations into a single Python application. It provides functionalities for face detection, face recognition, and morphological image processing.
+
+# Description
+The project includes the following features:
+
+# Face Recognition
+Utilizes pre-trained deep learning models for face detection and recognition.
+Recognizes faces in images and videos, with options for labeling and bounding box visualization.
+# Image Processing
+Demonstrates basic morphological operations such as dilation, erosion, opening, and closing.
+Provides thresholding techniques to create binary masks for image segmentation.
 # Face Detection Comparison
 This project demonstrates a comparison of different face detection techniques using OpenCV in Python. The following techniques are implemented and compared:
 
@@ -6,6 +18,9 @@ This project demonstrates a comparison of different face detection techniques us
 -> OpenCV Deep Learning-based Face Detection
 
 -> ResNet SSD Face Detection
+
+![image](https://github.com/Lkoushik29/FaceRecognition/assets/91585444/b38d92e1-295e-4aa8-9430-90b74797cc44)
+
 
 ## Comparison of Face Detection Techniques
 
