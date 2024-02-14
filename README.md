@@ -1,13 +1,13 @@
 # Face Detection Comparison
 This project demonstrates a comparison of different face detection techniques using OpenCV in Python. The following techniques are implemented and compared:
 
->Haar Cascades
->OpenCV Deep Learning-based Face Detection
->ResNet SSD Face Detection
+-> Haar Cascades
+-> OpenCV Deep Learning-based Face Detection
+-> ResNet SSD Face Detection
 
 Requirements
->Python (>= 3.6)
->OpenCV (>= 4.0)
+-> Python (>= 3.6)
+-> OpenCV (>= 4.0)
 
 Usage
 Clone the repository to your local machine:
@@ -18,11 +18,11 @@ bash
 
 Navigate to the project directory:
 
-# cd facedetection-comparison
+cd facedetection-comparison
 
 Run the Python script:
 
-# python face_detection_comparison.py
+ python face_detection_comparison.py
 Press 'q' to exit the application.
 
 Contributing
